@@ -1,0 +1,252 @@
+aula1 23/08/2019
+medidas de boa governança:
+
+só ter ações ordinárias (as que têm direito a voto)
+
+
+free-float: percentual das ações que está em circulação
+
+Relações com a teoria economica
+
+Análise marginal: decisão financeira deve ser tomada apenas quando os benefícios adicionais superam os ...
+É o método fundamental.
+
+Nas finanças a ênfase é a tomada de decisões (avaliação), diferente da contabilidade (ênfase na fidedignidade dos dados).
+--------------------------
+19:19 23/08/2019
+IFRS
+normas CPC
+contabilidade financeira x custos x gerencial
+
+técnicas contábeis: escrituração, demonstrações contábeis (transformação dos dados em relatórios), auditoria, análisa das demo (para decisões) e perícia (pedida por juiz).
+Foco do curso: demo e análise
+
+Relatórios contábeis - resumidos e ordenados e periódicos
+Demo fin:
+
+BP - situação do patrimonio em uma data determinada.
+obs: situação liquida é o mesmo q pl
+situação liquida nula a=p
+se a<p entao p a descoberto
+ac é curto prazo  }espero que vire dinheiro em...tempo x
+anc é ongo prazo
+
+ciclo operacional = tempo para produzir, vender, receber o produto
+qto mais liquidez mais alto no bp (por isso caixa lá em cima)
+a: def: recurso 1-controlado (pela entidade), 2-resulta de eventos passados e que se 3-espera ter futuros beneficos economicos
+p: obrigação presente, resulta de eventos passados, liquidação através da saida de recursos da entidade, para obter beneficios
+Nem todos os ativos precisam ser reconhecidos no balanço. Ex: marca (ativo intangivel, nao pode reconhecer porque há alta subjetividade na mensração do valor da marca) valor da marca: fluxos de caixa futuros sobre custo de oportunidade(ou tbm chamado custo de capital), trazidos a valor presente (mesmo calculo que para valor da empresa)
+
+despesa antecipada fica no ativo. Despesa nao entra no bp, vai na dre, mas a antecipada n vai na dre e vai no ativo. Despesa antecipada é uma que já paguei mas ainda n usufrui.
+
+
+anc:
+realizavel a longo prazo (estoque aparece aqui)
+
+obs: estoque: def: o q vou vender (atividade fim)
+
+investimentos - obteve retorno, mas n é atividade fim
+
+participações acionárias
+outros inv
+imobilizado - apenas o imóvel com objetivo de uso p atividade fim. Senão, é investimento
+...
+
+
+pc: - tenho de pagar em .. 1 ano
+fornecedores
+emprest e financiamentos
+impostos...
+salarios a pagar
+dividendos a pagar
+provisoes
+outros p curto prazo
+
+pl:
+capital social - dinheiro q os socios colocaram na empresa
+...
+
+___
+
+regimes de competencia - desempenho economico
+x regime de caixa	- fluxo de caixa
+
+
+DRE - como um filme
+
+receitas
+despesas - decrescimo
+custo
+
+modelo dre
+(vamos trabalhar mais com a receita liquida)
+
+
+dra - demo do resultado abrangente (pego ll da dre e acrescento tudo o q modificou o pl mas q n veio p a dre. Exemplo diferença cambial. São os resultados abrangentes)
+
+___
+DFC - entrada e saida de caixa - tb é um filme
+atividades: 	operacionais (sao as contas da dre)
+		investimento
+		financiamento (entra p e pl): emprestimos, leasing (tanto se estou pegando ou pagando)
+
+método 	direto
+	indireto - muda só as atividades operacionais. Ex: depreciação vira valor positivo (pq na está no caixa. Tbm tira essa depreciação do ll, deixando este apenas c valores operacionais, quem analisa gosta de ver dessa forma, fica legível)
+
+___
+DLPA,
+____
+DMPL (a DLPA está dentro dela), DVA (obrigatório apenas para capital aberto)
+mostra todas as mutações do pl.
+
+___
+...
+dva
+
+___
+Balanço social
+DOAR - mostra a variação do CCL = a circ - p circ
+orçamentos
+
+----------------------
+ex aula q vem pegar demo fin da natura do consolidado e planilhar - entra nos 10 pts de participação. Pegar no cvm, os balanços
+ex - pegar tambem as outras demo (dfc, dva, etc, trazer tudo planilhado na proxima aula)
+analise das demo
+risco será visto depois de capital de giro
+
+------------------------------------------------------------------------------------
+30-8
+
+Tem que corrigir pela inflação
+Achar o indice de inflação e multiplicar todas as contas pelo indice
+Ex de indice: igpm
+Depois da correção pela inflação que sairá av\ah, outras
+ah: analisar a evolução da conta no tempo (temporal)
+pode ser por numeros indice
+AH = Vd\Vb *100
+vd é valor da conta em certa data, vb é o valor na data base (+antigo)
+ou por porcentagem
+AH = ((vd\vb)-1)*100
+obs: se a base, ou seja, vb, for negativa, tem de inverter o valor da porcentagem final. ex nos slides
+av: vê a participação relativa das contas
+valor-base no bp é ativo total
+na dre é receita de vendas
+bp: AV caixa: caixa\ativo total * 100
+dre: av desp op: desp.op\receita de vendas *100
+
+av e ah devem ser feitas juntas (n só uma). Primeiro a av, depois a ah
+---
+indices
+
+  --situação financeira
+      ---liquidez
+      maior, melhor. Avalia capacidade de pgto
+      se está c liquidez ruim, n quer dizer q a empresa n vai pagar
+      serve pra avaliar credito
+      -l.corrente = ac\pc (qtos reais de bens e direitos por 1 real de divida, num dado tempo)
+        alta lcorrente pode se dar por muito estoque, muito caixa (q aumentam o ativo)
+        n revela a qualidade dos itens no ac. N pega por exemplo a sincronização entre recebimentos e pgtos (as vezes
+        n pagou uma conta ainda, p exemplo)
+      -l.imediata (mostra qto a empresa tem de disponivel, em relacao ao pc.)
+        Por exemplo, se tiver uma divida urgente, consigo pagar?
+        disponivel/pc
+      -l.seca (geração de caixa em curtissimo prazo, ou seja, ativos de rapida conversibilidade)
+        (ac-estoque-despesas antecipadas(q é o q eu paguei mas ainda n usei, por exemplo um seguro))/pc
+        ficou no numerador só o disponivel e o contas de clientes.
+      -l.geral (capacidade de pagar dividas curto e longo prazo)
+      	ac+realizavel lp(q é a parte do ac q é a longo prazo mas q pretendo q vire dinheiro, como estoque etc, que é
+	      diferente do permanente (q é investimento, intangivel e imobilizado, todos que eu n pretendo vender pra fazer
+	      dinheiro)imobilizado, etc pois n vou vendelo)\pc+pnc (q somados sao a divida)
+	      ac+realizavel lp\pc+pnc
+	      l.geral>1 = relativa folga financeira, <1 possiveis problemas no pgto de dividas, indica que tem dinheiro de terceiros no permanente
+
+      --estrutura de capital (de endividamento)
+				-Participação de capitais de terceiros pc+pnc /pl *100
+				-dependencia financeira pc+pnc /at *100
+				-composicao do endividamento pc/pc+pnc *100
+				-imobilização dos recursos n correntes
+					apermanente (q é iii) \(pnc +pl)  (q sao os recurso de lp da empresa) *100  ,   se >100 ...
+					imobilizacao do pl (quero ver se o permanente esta sendo financiado por recursos proprios)
+				-imobilização do pl
+					apermanente\pl *100
+
+			--indices de rentabilidade
+				-giro do ativo vendas liq (é o q aparece como receita de vendas nas demo publicas)\ atotal.
+				Esse giro é por periodo. Pois as vendas liq sao de um periodo.
+				-giro do investimento
+					Uma variação do giro de ativo.
+					Aqui investimento é pl+passivo oneroso (q é o q tem juros explicitos em cotrato. Diferente do atotal, q engloba tudo)
+					investimento = atotal - p de funcionamento
+					maior, melhor
+				-giro dos recursos proprios
+					qto vendi em relacao ao pl
+					v liquidas\pl
+				-margem liquida (rentabilidade das vendas)
+					ll\vl *100
+				-margem operacional (mostra rentabilidade da empresa, nao dos socios). ou seja, a lucratividade, antes das despesas financeiras
+					mostra %de l operacional sobre 100,00 em vendas
+					l op \v liq *100
+					O l op n é divulgado, tem q calcular
+					o l op é chamado NOPAT (net operating profit after taxes)
+				-rentabilidade do ativo (qto o l op representa do atotal)
+				lop \atotal *100   é qto o atotal rendeu de lucro
+				chamado ROA
+				-rentabilidade do investimento (ROI)
+				dos + famosos
+				lop\investiento *100
+
+Obs: em todos, o denominador deve ser uma média do ano. Mas no nosso trabalho usar o valor q tem mesmo.
+
+				-rentabilidade do pl
+					n é o retorno do investidor. É o retorno sobre o pl (é uma medida cotabil). Qto de lucro p cada 100,00 investidos no pl
+					ROE (retorno on Equity)
+					ll\pl *100
+
+
+Analise Giroxmargem
+	o retorno pode ser decomposto em giro x margem
+	uma empresa tem um retorno maior pq tem um giro alto, ou uma margem alta...
+	serve pra analisar a caracteristica da empresa
+	ret do a = gir a x m op
+	ret do i = gir i x m op
+	ret do pl = giro dos rec proprios x m liq
+
+Analises adicionais
+	iii, natureza fixa (n quero vender)
+	indicadores: n veremos a fundo pois a maioria pede indices internos da empresa
+
+Analise de ações
+	só p capital aberto, depende mais de expectativa do mercado q da empresa. Baseado em dados de mercado
+	-vpa   qto q o pl representa em relacao a ação emitida
+		pl\nº ações
+	-lpa     ll\nºações
+	-p\l     valor de mercado da ação\lucro por ação  (indica tempo teorico de retorno do investimento)
+	-payout   % do l q foi distribuido
+		é	div\ll
+ -dpa
+ -dy rendimento dos dividendos
+  dpa\preço de mercado da ação
+
+Diagrama de indices (um deles é analise dupont)
+
+*********************
+--entrar cvm.gov.br>companhias>info periodicas e enventuais de cias (1 a esq)>1
+item (mesmo nome)>natura ( p o trabalho n escolher uma q está cancelado, ou
+concedido depois de 2015, pois precisa de 3 anos)>dfp> ano>consulta>
+consolidadas> sugere pegar o relatorio de adm, para saber mais sobre a empresa
+pegar o df consolidadas, bp, copiar e colar no excel, pegar as colunas q precisa e
+por pra moeda, depende da versao do excel. tem q tirar o espaço em branco antes
+e depois. Tirar substituindo. Ou faz o colar especial como texto.
+pegar bp e dre Nao faremos av-ah de dfc, etc,dva
+
+agora, padronização
+obs: os campos sao conta, descrição, 18,17,16
+obs: as linhas q sao subseçoes de outras, n vai considerar. ex: ficam clientes,
+cotnas a receber,etc. Eliminar as linhas
+investimento está zerado, mas deixar pq entrará em algumas contas.
+
+obs: o 2016 tá zerado. Colar do doc certo, de 17 ou 16.
+editar a tabela, pondo de mesma cor circulante e ncirculante.
+se pegar do facemg(conferir o nome, é quem auditou), já tá enxuto
+
+depois, correção pela inflação. 
