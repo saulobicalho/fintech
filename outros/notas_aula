@@ -1,4 +1,4 @@
-aula1 23/08/2019
+﻿aula1 23/08/2019
 medidas de boa governança:
 
 só ter ações ordinárias (as que têm direito a voto)
@@ -250,3 +250,8 @@ editar a tabela, pondo de mesma cor circulante e ncirculante.
 se pegar do facemg(conferir o nome, é quem auditou), já tá enxuto
 
 depois, correção pela inflação. 
+----
+
+
+na dre, av é dividir tudo por receita de vendas. 
+ah é dividir ano\ano-base e diminuir -1.
